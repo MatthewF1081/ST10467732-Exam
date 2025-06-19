@@ -23,11 +23,11 @@ This app has been created for users to store song details, store/manage playlist
   
  ![Screenshot 2025-06-19 123619](https://github.com/user-attachments/assets/10a45e51-3655-401d-bbc7-ae55bddb41eb)
 
-Above on this screen shot it is showing you the main screen when you first open the app.
+Above on this screen shot it is showing you the main screen when you first open the app. In the Text boxs it tells you what you must put in the box.
 
 ![Screenshot 2025-06-19 125012](https://github.com/user-attachments/assets/570f95e3-4a76-400c-8d36-094030b545bb)
 
-Above on this screen it is showing you the second screen after you have click the next page button on the home screen.
+Above on this screen it is showing you the second screen after you have click the next page button on the home screen. In the Text boxs it tells you what you must put in the box.
 
 ![Screenshot 2025-06-19 123832](https://github.com/user-attachments/assets/e539415a-0e87-4cdb-8025-5b14e35eb813)
 
