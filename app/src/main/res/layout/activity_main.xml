@@ -97,7 +97,7 @@
         android:layout_height="65dp"
         android:layout_marginStart="104dp"
         android:layout_marginBottom="252dp"
-        android:text="TextView"
+        android:text="Music App"
         android:textAlignment="center"
         android:textColor="#EFE7E7"
         android:textSize="20sp"

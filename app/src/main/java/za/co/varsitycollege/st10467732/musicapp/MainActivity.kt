@@ -33,13 +33,13 @@ class MainActivity : AppCompatActivity() {
         val exitButton = findViewById<Button>(R.id.exitButton)
         val musicAppTextView = findViewById<TextView>(R.id.musicAppTextView)
 
-        musicAppTextView.text = ""
+        musicAppTextView.text
 
         //setting up the question for the user to enter the song name.
-        songNameTextView.text = ""
+        songNameTextView.text
 
         //setting up the question for the user to enter the Artist.
-        artistNameTextView.text = ""
+        artistNameTextView.text
 
         //setting up the question for the user to enter the rating of the song.
         songRatingTextView.text
