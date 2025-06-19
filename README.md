@@ -50,10 +50,10 @@ Above this is the code that was used to program the second screen.
 
 # Reference list
 
-The Independent Institute of 
-Education, 2025. Digital and academic 
-literacies [IMAD5112]. nt. [online via 
+* The Independent Institute of 
+Education, 2025. Mobile app and web developement [IMAD5112]. nt. [online via 
 internal VLE] The Independent 
 Institute of Education. Available at:https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/_layouts/15/Doc.aspx?sourcedoc=%7BA1FF62F0-8E1A-47BC-99BD-CA07AE24427D%7D&file=IMAD5112_MM.docx&action=default&mobileredirect=true
+* Image of music notes. available athttps://www.bing.com/images/search?view=detailV2&ccid=4smoaXwJ&id=75C2654DB97D7595F1EF4C3957E01EE8248119EF&thid=OIP.4smoaXwJvAZHYie_P4gmIAHaFe&mediaurl=https%3a%2f%2fwallpapercave.com%2fwp%2fIE4qaxU.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e2c9a8697c09bc06476227bf3f882620%3frik%3d7xmBJOge4Fc5TA%26pid%3dImgRaw%26r%3d0&exph=1552&expw=2100&q=music+images&simid=608010831568980048&FORM=IRPRST&ck=116A250634F28BEFEE9614FE273C73FE&selectedIndex=1&itb=0&ajaxhist=0&ajaxserp=0
 
 
