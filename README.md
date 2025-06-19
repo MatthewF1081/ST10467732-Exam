@@ -15,7 +15,7 @@ This app has been created for users to store song details, store/manage playlist
 # Requirements
 * a laptop or a PC
 * MicroSoft C++
-* a understanding of andriod studio
+* an understanding of andriod studio
 * good choices of music
 
   Here are screen shots showing they emulator and the code that is behind it.
