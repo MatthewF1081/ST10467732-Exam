@@ -17,6 +17,9 @@ This app has been created for users to store song details, store/manage playlist
 * MicroSoft C++
 * an understanding of andriod studio
 * good choices of music
+  
+
+# Screenshots
 
   Here are screen shots showing they emulator and the code that is behind it.
 
