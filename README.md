@@ -19,6 +19,8 @@ This app has been created for users to store song details, store/manage playlist
 * good choices of music
 
   Here are screen shots showing they emulator and the code that is behind it.
+
+  
  ![Screenshot 2025-06-19 123619](https://github.com/user-attachments/assets/10a45e51-3655-401d-bbc7-ae55bddb41eb)
 
 on this screen shot it is showing you the main screen when you first open the app.
