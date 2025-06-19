@@ -4,7 +4,7 @@
 
 # Music App
 
-This app has been created for users to store song details, store/manage playlist, give the songs that they have stored a rating,comment and information about the artist that created the song.
+This app has been created for users to store song details, store/manage playlist, give the songs that they have stored a rating,comment and information about the artist that created the song. This app will help keep your songs all in one place and you will be able to tell which of the song that you have saved is you favourite by the rating system.
 
 # Features
 * Storing songs of your choice.
