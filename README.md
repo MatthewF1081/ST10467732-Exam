@@ -48,4 +48,12 @@ Above this is the code that was used to program the home screen.
 
 Above this is the code that was used to program the second screen.
 
+# Reference list
+
+The Independent Institute of 
+Education, 2025. Digital and academic 
+literacies [IMAD5112]. nt. [online via 
+internal VLE] The Independent 
+Institute of Education. Available at:https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/_layouts/15/Doc.aspx?sourcedoc=%7BA1FF62F0-8E1A-47BC-99BD-CA07AE24427D%7D&file=IMAD5112_MM.docx&action=default&mobileredirect=true
+
 
