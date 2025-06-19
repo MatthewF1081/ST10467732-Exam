@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/music_image"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/exitButton"
+        android:layout_width="198dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="108dp"
+        android:layout_marginBottom="21dp"
+        android:text="Exit Button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/nextPageButton"
+        android:layout_width="200dp"
+        android:layout_height="51dp"
+        android:layout_marginStart="108dp"
+        android:layout_marginBottom="20dp"
+        android:text="Next Page"
+        app:layout_constraintBottom_toTopOf="@+id/exitButton"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/playlistButton"
+        android:layout_width="202dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="96dp"
+        android:layout_marginBottom="20dp"
+        android:text="Add to Playlist"
+        app:layout_constraintBottom_toTopOf="@+id/nextPageButton"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/songNameTextView"
+        android:layout_width="326dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="172dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Enter Song Title."
+        android:textColor="#EDE6E6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/artistNameTextView"
+        android:layout_width="325dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Enter Artist's Name."
+        android:textColor="#F2EEEE"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/songNameTextView" />
+
+    <EditText
+        android:id="@+id/songRatingTextView"
+        android:layout_width="323dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="12dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Give the Song a Rating. (1-5)"
+        android:textColor="#F6EBEB"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/artistNameTextView" />
+
+    <EditText
+        android:id="@+id/commentTextView"
+        android:layout_width="329dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Leave a Comment."
+        android:textColor="#F0EBEB"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/songRatingTextView" />
+
+    <TextView
+        android:id="@+id/musicAppTextView"
+        android:layout_width="193dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="104dp"
+        android:layout_marginBottom="252dp"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textColor="#EFE7E7"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/commentTextView"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="Music App" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
